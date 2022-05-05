@@ -3,7 +3,7 @@ body
   background-color:#FADDF3;
   text-align:center;
   font-family:cursive;
-  font-size: 30px;
+  font-size: 26px;
 }
 .Button
 {
@@ -24,23 +24,23 @@ body
 {
   background: url('A.png') no-repeat 4px;
 }
-.B
+.S
 {
   background: url('B.png') no-repeat 4px;
 }
-.C
+.D
 {
   background: url('C.png') no-repeat 3px;
 }
-.D
+.F
 {
   background: url('D.png') no-repeat 4px;
 }
-.E
+.G
 {
   background: url('E.png') no-repeat 4px;
 }
-.F
+.H
 {
   background: url('F.png') no-repeat 4px;
 }
